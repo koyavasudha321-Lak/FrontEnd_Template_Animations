@@ -4,16 +4,15 @@ body{
     background: url(../images/b1.jpeg);
     background-position: center;
     background-size: auto;
-    font:sans-serif;
-    
 
+    font:sans-serif;
 }
 
 .loginPage{
     width: 320px;
     height: 420px;
     background: #000;
-    color:#fff;
+    color:#ffffff;
     top:50%;
     left:50%;
     position: absolute;
@@ -31,6 +30,7 @@ body{
     top:-50px;
     left:calc(50% - 50px);
 }
+
 .register-form, .login-form{
     padding-top: 20px;
 }
@@ -74,7 +74,7 @@ h1{
 }
 
 .loginPage input[type="submit"]:hover{
-    cursor:pointer;
+    cursor:;
     background:#008080;
     color: #000;
 }
@@ -86,7 +86,7 @@ h1{
     color:darkgrey;
 }
 .loginPage a:hover{
-    color:aqua;
+    color:lime;
 }
 
 .form .msg{
