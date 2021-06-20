@@ -10,10 +10,10 @@
 *.gitattributes text
 .gitignore text
 *.md text
-*.css linguist-language=true
-*.html linguist-language=true
-*.javascript linguist-language=true
 
 
 
 
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+*.javascript linguist-detectable=true
