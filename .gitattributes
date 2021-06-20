@@ -10,9 +10,9 @@
 *.gitattributes text
 .gitignore text
 *.md text
-*.css linguist-language=Markdown
-*.html linguist-language=Markdown
-*.javascript linguist-language=Markdown
+*.css linguist-language=true
+*.html linguist-language=true
+*.javascript linguist-language=true
 
 
 
