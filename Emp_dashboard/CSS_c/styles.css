@@ -98,3 +98,23 @@ h1{
 .form .register-form{
     display: none;
 }
+
+
+span{
+    position: absolute;
+    transform: translate(-20px,17px);
+    cursor: pointer;
+
+}
+
+.eye{
+    position: absolute;
+}
+
+#hide1{
+    display: none;
+}
+
+.fa{
+    color: #7a797e;
+}
